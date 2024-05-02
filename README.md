@@ -18,4 +18,5 @@ I do think I would use a unit test to test the "max message length" feature of a
 
 **Link to Github Pages Site**
 
-https://4hlecks.github.io/CSE-110-Lab-5/
+https://4hlecks.github.io/Lab5_Starter/expose.html
+https://4hlecks.github.io/Lab5_Starter/explore.html
