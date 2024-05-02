@@ -1,6 +1,9 @@
 # Lab 5 - Starter
 Alex Atienza
 
+**PLEASE NOTE**
+There is a bunch of freaking weird pull requests and stuff and the node_modules folder is showing because I made this before you updated the main.yml box so I could not figure out for the love of god why my unit tests weren't working so I took out the .gitignore for node_modules/ and then it started working, then I refreshed the lab writeup to see that the main.yml box was updated so I was just going back and forth deleting and installing stuff because the github pages wasn't loading so please please please I swear I did all the steps correctly and in order.
+
 **1. Would you use a unit test to test the “message” feature of a messaging application? Why or why not? For this question, assume the “message” feature allows a user to write and send a message to another user.**
 
 
@@ -11,3 +14,8 @@ I don't think I would use a unit test to test the "message" feature of a messagi
 
 
 I do think I would use a unit test to test the "max message length" feature of a messaging application because it is a smaller scale feature that can be debugged with a unit test. There are no other factors to test besides the character limit of 80 so it would be quite simple to test, which is the point of the unit test.
+
+
+**Link to Github Pages Site**
+
+https://4hlecks.github.io/CSE-110-Lab-5/
